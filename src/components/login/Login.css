@@ -1,0 +1,25 @@
+.Login {
+    border: 2px solid black
+}
+
+.Login h1 {
+    margin-bottom: 5px;
+}
+
+.Login form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Login .input-text {
+    margin-bottom: 20px;
+}
+
+.Login .input-password {
+    margin-bottom: 20px;
+}
+
+.Login button {
+    margin-bottom: 10px;
+}

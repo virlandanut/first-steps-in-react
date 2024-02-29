@@ -1,0 +1,11 @@
+.Joc {
+    width: 500px;
+}
+
+.Joc .refresh-button {
+    margin-right: 10px;
+}
+
+.Joc .reset-button {
+    width: 110px;
+}
